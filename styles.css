@@ -1,0 +1,10 @@
+body{
+    margin: 20px auto;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+#options{
+    display: none;
+}
